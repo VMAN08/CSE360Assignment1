@@ -24,11 +24,11 @@ public class AddingMachine {
 	    return 0;
 	  }
 	  
-      /**  Method to add incoming values to calculator total */		  
+      /**  Method to add any incoming values to calculator total */		  
 	  public void add (int value) {
 	  }
 	  
-	  /**  Method to subtract incoming values from calculator total */	
+	  /**  Method to subtract any incoming values from calculator total */	
 	  public void subtract (int value) {
 	  }
 	  
