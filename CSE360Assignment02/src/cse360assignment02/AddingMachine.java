@@ -1,5 +1,4 @@
 package cse360assignment02;
-
 /** 
  * Vikram Dattatri
  * CSE 360 - Professor Gonzalez-Sanchez
@@ -11,8 +10,8 @@ package cse360assignment02;
 /** Open class  */
 public class AddingMachine {
 	
-	/** private integer variable to hold the calculator's arithmetic total */
-	private int total;
+	  /** private integer variable to hold the calculator's arithmetic total */
+	  private int total;
 	  
 	  /**  Default constructor */	  	
 	  public AddingMachine () {
